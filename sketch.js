@@ -1,3 +1,4 @@
+//Fruit ninja game
 //variables
 var score;
 var PLAY = 1;
